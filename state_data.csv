@@ -1,0 +1,919 @@
+date,location,hits
+2012-03-01,Vermont,100
+2012-03-01,Nebraska,58
+2012-03-01,Arkansas,49
+2012-03-01,Nevada,36
+2012-03-01,Kansas,23
+2012-03-01,Iowa,21
+2012-03-01,Indiana,19
+2012-03-01,Oklahoma,18
+2012-03-01,Missouri,15
+2012-03-01,Oregon,14
+2012-03-01,Alabama,13
+2012-03-01,South Carolina,12
+2012-03-01,Kentucky,11
+2012-03-01,Minnesota,10
+2012-03-01,Wisconsin,10
+2012-03-01,Illinois,10
+2012-03-01,Colorado,9
+2012-03-01,Arizona,8
+2012-03-01,New Jersey,8
+2012-03-01,Washington,7
+2012-03-01,Texas,7
+2012-03-01,Michigan,6
+2012-03-01,Virginia,6
+2012-03-01,North Carolina,5
+2012-03-01,New York,5
+2012-03-01,Ohio,4
+2012-03-01,Pennsylvania,4
+2012-03-01,California,4
+2012-03-01,Florida,4
+2012-03-01,Alaska,NA
+2012-03-01,Connecticut,NA
+2012-03-01,District of Columbia,NA
+2012-03-01,Delaware,NA
+2012-03-01,Georgia,NA
+2012-03-01,Hawaii,NA
+2012-03-01,Idaho,NA
+2012-03-01,Louisiana,NA
+2012-03-01,Massachusetts,NA
+2012-03-01,Maryland,NA
+2012-03-01,Maine,NA
+2012-03-01,Mississippi,NA
+2012-03-01,Montana,NA
+2012-03-01,North Dakota,NA
+2012-03-01,New Hampshire,NA
+2012-03-01,New Mexico,NA
+2012-03-01,Rhode Island,NA
+2012-03-01,South Dakota,NA
+2012-03-01,Tennessee,NA
+2012-03-01,Utah,NA
+2012-03-01,West Virginia,NA
+2012-03-01,Wyoming,NA
+2012-03-02,Montana,100
+2012-03-02,Rhode Island,71
+2012-03-02,Hawaii,66
+2012-03-02,Iowa,61
+2012-03-02,Utah,54
+2012-03-02,Nebraska,43
+2012-03-02,Oregon,41
+2012-03-02,Arkansas,35
+2012-03-02,Kansas,34
+2012-03-02,Indiana,28
+2012-03-02,Nevada,28
+2012-03-02,Oklahoma,26
+2012-03-02,Kentucky,26
+2012-03-02,Maryland,24
+2012-03-02,Louisiana,22
+2012-03-02,Massachusetts,21
+2012-03-02,New Jersey,21
+2012-03-02,Connecticut,21
+2012-03-02,South Carolina,18
+2012-03-02,Wisconsin,15
+2012-03-02,Missouri,15
+2012-03-02,Colorado,13
+2012-03-02,Pennsylvania,13
+2012-03-02,North Carolina,12
+2012-03-02,New York,12
+2012-03-02,Arizona,12
+2012-03-02,Washington,11
+2012-03-02,Ohio,10
+2012-03-02,Texas,10
+2012-03-02,Michigan,9
+2012-03-02,Virginia,9
+2012-03-02,Illinois,9
+2012-03-02,Florida,9
+2012-03-02,California,8
+2012-03-02,Georgia,7
+2012-03-02,Alaska,NA
+2012-03-02,Alabama,NA
+2012-03-02,District of Columbia,NA
+2012-03-02,Delaware,NA
+2012-03-02,Idaho,NA
+2012-03-02,Maine,NA
+2012-03-02,Minnesota,NA
+2012-03-02,Mississippi,NA
+2012-03-02,North Dakota,NA
+2012-03-02,New Hampshire,NA
+2012-03-02,New Mexico,NA
+2012-03-02,South Dakota,NA
+2012-03-02,Tennessee,NA
+2012-03-02,Vermont,NA
+2012-03-02,West Virginia,NA
+2012-03-02,Wyoming,NA
+2012-03-03,Alaska,100
+2012-03-03,Vermont,91
+2012-03-03,Oklahoma,33
+2012-03-03,Louisiana,27
+2012-03-03,Nebraska,26
+2012-03-03,Iowa,25
+2012-03-03,Alabama,24
+2012-03-03,Kansas,21
+2012-03-03,Minnesota,18
+2012-03-03,Nevada,17
+2012-03-03,Utah,16
+2012-03-03,Tennessee,16
+2012-03-03,Arizona,15
+2012-03-03,Connecticut,13
+2012-03-03,Kentucky,12
+2012-03-03,Indiana,12
+2012-03-03,Maryland,12
+2012-03-03,Michigan,12
+2012-03-03,South Carolina,11
+2012-03-03,New Jersey,10
+2012-03-03,Wisconsin,9
+2012-03-03,Illinois,9
+2012-03-03,Missouri,9
+2012-03-03,Texas,7
+2012-03-03,Washington,7
+2012-03-03,Georgia,6
+2012-03-03,California,6
+2012-03-03,Ohio,6
+2012-03-03,New York,5
+2012-03-03,North Carolina,5
+2012-03-03,Pennsylvania,4
+2012-03-03,Florida,4
+2012-03-03,Arkansas,NA
+2012-03-03,Colorado,NA
+2012-03-03,District of Columbia,NA
+2012-03-03,Delaware,NA
+2012-03-03,Hawaii,NA
+2012-03-03,Idaho,NA
+2012-03-03,Massachusetts,NA
+2012-03-03,Maine,NA
+2012-03-03,Mississippi,NA
+2012-03-03,Montana,NA
+2012-03-03,North Dakota,NA
+2012-03-03,New Hampshire,NA
+2012-03-03,New Mexico,NA
+2012-03-03,Oregon,NA
+2012-03-03,Rhode Island,NA
+2012-03-03,South Dakota,NA
+2012-03-03,Virginia,NA
+2012-03-03,West Virginia,NA
+2012-03-03,Wyoming,NA
+2012-03-04,Vermont,100
+2012-03-04,Maine,48
+2012-03-04,Hawaii,46
+2012-03-04,West Virginia,45
+2012-03-04,Iowa,43
+2012-03-04,District of Columbia,41
+2012-03-04,New Mexico,32
+2012-03-04,Indiana,29
+2012-03-04,Kansas,23
+2012-03-04,Nevada,19
+2012-03-04,Oklahoma,18
+2012-03-04,Maryland,18
+2012-03-04,Missouri,15
+2012-03-04,Tennessee,15
+2012-03-04,Kentucky,15
+2012-03-04,Louisiana,15
+2012-03-04,South Carolina,13
+2012-03-04,Washington,12
+2012-03-04,Virginia,12
+2012-03-04,Pennsylvania,11
+2012-03-04,Wisconsin,10
+2012-03-04,Illinois,10
+2012-03-04,Minnesota,10
+2012-03-04,Arizona,8
+2012-03-04,Massachusetts,7
+2012-03-04,Texas,7
+2012-03-04,New York,7
+2012-03-04,Michigan,7
+2012-03-04,New Jersey,6
+2012-03-04,North Carolina,5
+2012-03-04,Georgia,5
+2012-03-04,Ohio,5
+2012-03-04,California,2
+2012-03-04,Alaska,NA
+2012-03-04,Alabama,NA
+2012-03-04,Arkansas,NA
+2012-03-04,Colorado,NA
+2012-03-04,Connecticut,NA
+2012-03-04,Delaware,NA
+2012-03-04,Florida,NA
+2012-03-04,Idaho,NA
+2012-03-04,Mississippi,NA
+2012-03-04,Montana,NA
+2012-03-04,North Dakota,NA
+2012-03-04,Nebraska,NA
+2012-03-04,New Hampshire,NA
+2012-03-04,Oregon,NA
+2012-03-04,Rhode Island,NA
+2012-03-04,South Dakota,NA
+2012-03-04,Utah,NA
+2012-03-04,Wyoming,NA
+2012-03-05,Maine,100
+2012-03-05,District of Columbia,84
+2012-03-05,New Mexico,64
+2012-03-05,Mississippi,56
+2012-03-05,Arkansas,50
+2012-03-05,Kansas,46
+2012-03-05,Louisiana,46
+2012-03-05,Iowa,42
+2012-03-05,Wisconsin,42
+2012-03-05,Oklahoma,37
+2012-03-05,Arizona,33
+2012-03-05,Kentucky,30
+2012-03-05,Oregon,28
+2012-03-05,Maryland,26
+2012-03-05,Michigan,25
+2012-03-05,Missouri,21
+2012-03-05,Minnesota,20
+2012-03-05,Indiana,19
+2012-03-05,Colorado,19
+2012-03-05,Illinois,16
+2012-03-05,North Carolina,16
+2012-03-05,Ohio,15
+2012-03-05,Massachusetts,15
+2012-03-05,Washington,15
+2012-03-05,New York,14
+2012-03-05,Virginia,12
+2012-03-05,New Jersey,12
+2012-03-05,California,11
+2012-03-05,Texas,10
+2012-03-05,Pennsylvania,9
+2012-03-05,Florida,8
+2012-03-05,Alaska,NA
+2012-03-05,Alabama,NA
+2012-03-05,Connecticut,NA
+2012-03-05,Delaware,NA
+2012-03-05,Georgia,NA
+2012-03-05,Hawaii,NA
+2012-03-05,Idaho,NA
+2012-03-05,Montana,NA
+2012-03-05,North Dakota,NA
+2012-03-05,Nebraska,NA
+2012-03-05,New Hampshire,NA
+2012-03-05,Nevada,NA
+2012-03-05,Rhode Island,NA
+2012-03-05,South Carolina,NA
+2012-03-05,South Dakota,NA
+2012-03-05,Tennessee,NA
+2012-03-05,Utah,NA
+2012-03-05,Vermont,NA
+2012-03-05,West Virginia,NA
+2012-03-05,Wyoming,NA
+2012-03-06,Delaware,100
+2012-03-06,West Virginia,35
+2012-03-06,Hawaii,34
+2012-03-06,Idaho,31
+2012-03-06,Kansas,20
+2012-03-06,Iowa,17
+2012-03-06,Nevada,15
+2012-03-06,Louisiana,12
+2012-03-06,Connecticut,12
+2012-03-06,Georgia,10
+2012-03-06,Missouri,8
+2012-03-06,Wisconsin,8
+2012-03-06,New Jersey,8
+2012-03-06,Indiana,8
+2012-03-06,Colorado,8
+2012-03-06,Pennsylvania,7
+2012-03-06,Maryland,7
+2012-03-06,Arizona,7
+2012-03-06,Michigan,5
+2012-03-06,Virginia,5
+2012-03-06,North Carolina,4
+2012-03-06,Ohio,4
+2012-03-06,Illinois,3
+2012-03-06,Texas,3
+2012-03-06,Florida,3
+2012-03-06,California,2
+2012-03-06,New York,2
+2012-03-06,Alaska,NA
+2012-03-06,Alabama,NA
+2012-03-06,Arkansas,NA
+2012-03-06,District of Columbia,NA
+2012-03-06,Kentucky,NA
+2012-03-06,Massachusetts,NA
+2012-03-06,Maine,NA
+2012-03-06,Minnesota,NA
+2012-03-06,Mississippi,NA
+2012-03-06,Montana,NA
+2012-03-06,North Dakota,NA
+2012-03-06,Nebraska,NA
+2012-03-06,New Hampshire,NA
+2012-03-06,New Mexico,NA
+2012-03-06,Oklahoma,NA
+2012-03-06,Oregon,NA
+2012-03-06,Rhode Island,NA
+2012-03-06,South Carolina,NA
+2012-03-06,South Dakota,NA
+2012-03-06,Tennessee,NA
+2012-03-06,Utah,NA
+2012-03-06,Vermont,NA
+2012-03-06,Washington,NA
+2012-03-06,Wyoming,NA
+2012-03-07,Alaska,100
+2012-03-07,District of Columbia,54
+2012-03-07,Idaho,35
+2012-03-07,Arkansas,24
+2012-03-07,Kansas,22
+2012-03-07,Iowa,20
+2012-03-07,Louisiana,14
+2012-03-07,Alabama,13
+2012-03-07,Ohio,13
+2012-03-07,Oregon,12
+2012-03-07,New Jersey,11
+2012-03-07,Washington,10
+2012-03-07,Missouri,10
+2012-03-07,Indiana,9
+2012-03-07,Pennsylvania,8
+2012-03-07,Tennessee,8
+2012-03-07,Michigan,6
+2012-03-07,North Carolina,5
+2012-03-07,Texas,5
+2012-03-07,Florida,4
+2012-03-07,Georgia,4
+2012-03-07,Illinois,4
+2012-03-07,California,3
+2012-03-07,New York,2
+2012-03-07,Arizona,NA
+2012-03-07,Colorado,NA
+2012-03-07,Connecticut,NA
+2012-03-07,Delaware,NA
+2012-03-07,Hawaii,NA
+2012-03-07,Kentucky,NA
+2012-03-07,Massachusetts,NA
+2012-03-07,Maryland,NA
+2012-03-07,Maine,NA
+2012-03-07,Minnesota,NA
+2012-03-07,Mississippi,NA
+2012-03-07,Montana,NA
+2012-03-07,North Dakota,NA
+2012-03-07,Nebraska,NA
+2012-03-07,New Hampshire,NA
+2012-03-07,New Mexico,NA
+2012-03-07,Nevada,NA
+2012-03-07,Oklahoma,NA
+2012-03-07,Rhode Island,NA
+2012-03-07,South Carolina,NA
+2012-03-07,South Dakota,NA
+2012-03-07,Utah,NA
+2012-03-07,Virginia,NA
+2012-03-07,Vermont,NA
+2012-03-07,Wisconsin,NA
+2012-03-07,West Virginia,NA
+2012-03-07,Wyoming,NA
+2012-03-08,North Dakota,100
+2012-03-08,Idaho,44
+2012-03-08,Arkansas,28
+2012-03-08,Oklahoma,20
+2012-03-08,Missouri,17
+2012-03-08,Oregon,15
+2012-03-08,South Carolina,15
+2012-03-08,New Jersey,13
+2012-03-08,Indiana,11
+2012-03-08,Georgia,11
+2012-03-08,Ohio,11
+2012-03-08,Colorado,11
+2012-03-08,Pennsylvania,10
+2012-03-08,Washington,8
+2012-03-08,California,8
+2012-03-08,New York,7
+2012-03-08,Michigan,7
+2012-03-08,Illinois,5
+2012-03-08,Texas,4
+2012-03-08,Florida,3
+2012-03-08,Alaska,NA
+2012-03-08,Alabama,NA
+2012-03-08,Arizona,NA
+2012-03-08,Connecticut,NA
+2012-03-08,District of Columbia,NA
+2012-03-08,Delaware,NA
+2012-03-08,Hawaii,NA
+2012-03-08,Iowa,NA
+2012-03-08,Kansas,NA
+2012-03-08,Kentucky,NA
+2012-03-08,Louisiana,NA
+2012-03-08,Massachusetts,NA
+2012-03-08,Maryland,NA
+2012-03-08,Maine,NA
+2012-03-08,Minnesota,NA
+2012-03-08,Mississippi,NA
+2012-03-08,Montana,NA
+2012-03-08,North Carolina,NA
+2012-03-08,Nebraska,NA
+2012-03-08,New Hampshire,NA
+2012-03-08,New Mexico,NA
+2012-03-08,Nevada,NA
+2012-03-08,Rhode Island,NA
+2012-03-08,South Dakota,NA
+2012-03-08,Tennessee,NA
+2012-03-08,Utah,NA
+2012-03-08,Virginia,NA
+2012-03-08,Vermont,NA
+2012-03-08,Wisconsin,NA
+2012-03-08,West Virginia,NA
+2012-03-08,Wyoming,NA
+2012-03-09,Rhode Island,100
+2012-03-09,Utah,72
+2012-03-09,Mississippi,61
+2012-03-09,Louisiana,59
+2012-03-09,Indiana,48
+2012-03-09,Arkansas,48
+2012-03-09,Kentucky,45
+2012-03-09,Iowa,41
+2012-03-09,Oklahoma,36
+2012-03-09,New Jersey,35
+2012-03-09,Alabama,29
+2012-03-09,Oregon,28
+2012-03-09,South Carolina,26
+2012-03-09,Ohio,23
+2012-03-09,Wisconsin,20
+2012-03-09,Missouri,20
+2012-03-09,Georgia,19
+2012-03-09,Illinois,19
+2012-03-09,California,17
+2012-03-09,Arizona,17
+2012-03-09,Maryland,17
+2012-03-09,North Carolina,16
+2012-03-09,Washington,15
+2012-03-09,Michigan,12
+2012-03-09,New York,12
+2012-03-09,Florida,10
+2012-03-09,Texas,9
+2012-03-09,Pennsylvania,9
+2012-03-09,Alaska,NA
+2012-03-09,Colorado,NA
+2012-03-09,Connecticut,NA
+2012-03-09,District of Columbia,NA
+2012-03-09,Delaware,NA
+2012-03-09,Hawaii,NA
+2012-03-09,Idaho,NA
+2012-03-09,Kansas,NA
+2012-03-09,Massachusetts,NA
+2012-03-09,Maine,NA
+2012-03-09,Minnesota,NA
+2012-03-09,Montana,NA
+2012-03-09,North Dakota,NA
+2012-03-09,Nebraska,NA
+2012-03-09,New Hampshire,NA
+2012-03-09,New Mexico,NA
+2012-03-09,Nevada,NA
+2012-03-09,South Dakota,NA
+2012-03-09,Tennessee,NA
+2012-03-09,Virginia,NA
+2012-03-09,Vermont,NA
+2012-03-09,West Virginia,NA
+2012-03-09,Wyoming,NA
+2012-03-10,Delaware,100
+2012-03-10,Maine,76
+2012-03-10,Nebraska,48
+2012-03-10,Mississippi,48
+2012-03-10,Kansas,38
+2012-03-10,Arkansas,38
+2012-03-10,Kentucky,35
+2012-03-10,Iowa,33
+2012-03-10,Indiana,30
+2012-03-10,Colorado,29
+2012-03-10,Oklahoma,29
+2012-03-10,Utah,28
+2012-03-10,Tennessee,28
+2012-03-10,Arizona,26
+2012-03-10,Louisiana,23
+2012-03-10,Connecticut,23
+2012-03-10,Alabama,22
+2012-03-10,South Carolina,20
+2012-03-10,North Carolina,17
+2012-03-10,Minnesota,17
+2012-03-10,Wisconsin,16
+2012-03-10,Georgia,15
+2012-03-10,Michigan,14
+2012-03-10,Washington,12
+2012-03-10,Pennsylvania,10
+2012-03-10,New Jersey,9
+2012-03-10,California,9
+2012-03-10,Texas,8
+2012-03-10,Ohio,7
+2012-03-10,Illinois,6
+2012-03-10,New York,6
+2012-03-10,Florida,5
+2012-03-10,Alaska,NA
+2012-03-10,District of Columbia,NA
+2012-03-10,Hawaii,NA
+2012-03-10,Idaho,NA
+2012-03-10,Massachusetts,NA
+2012-03-10,Maryland,NA
+2012-03-10,Missouri,NA
+2012-03-10,Montana,NA
+2012-03-10,North Dakota,NA
+2012-03-10,New Hampshire,NA
+2012-03-10,New Mexico,NA
+2012-03-10,Nevada,NA
+2012-03-10,Oregon,NA
+2012-03-10,Rhode Island,NA
+2012-03-10,South Dakota,NA
+2012-03-10,Virginia,NA
+2012-03-10,Vermont,NA
+2012-03-10,West Virginia,NA
+2012-03-10,Wyoming,NA
+2012-03-11,District of Columbia,100
+2012-03-11,Delaware,77
+2012-03-11,Maine,58
+2012-03-11,Hawaii,54
+2012-03-11,South Carolina,47
+2012-03-11,Connecticut,35
+2012-03-11,Kansas,29
+2012-03-11,Oklahoma,21
+2012-03-11,Maryland,20
+2012-03-11,Louisiana,18
+2012-03-11,Kentucky,18
+2012-03-11,Alabama,17
+2012-03-11,Arizona,17
+2012-03-11,Oregon,16
+2012-03-11,New Jersey,14
+2012-03-11,Minnesota,12
+2012-03-11,Missouri,12
+2012-03-11,Washington,12
+2012-03-11,Indiana,11
+2012-03-11,Pennsylvania,11
+2012-03-11,California,11
+2012-03-11,Tennessee,11
+2012-03-11,Ohio,9
+2012-03-11,North Carolina,9
+2012-03-11,Florida,8
+2012-03-11,Illinois,8
+2012-03-11,New York,7
+2012-03-11,Virginia,7
+2012-03-11,Michigan,7
+2012-03-11,Georgia,6
+2012-03-11,Texas,5
+2012-03-11,Alaska,NA
+2012-03-11,Arkansas,NA
+2012-03-11,Colorado,NA
+2012-03-11,Iowa,NA
+2012-03-11,Idaho,NA
+2012-03-11,Massachusetts,NA
+2012-03-11,Mississippi,NA
+2012-03-11,Montana,NA
+2012-03-11,North Dakota,NA
+2012-03-11,Nebraska,NA
+2012-03-11,New Hampshire,NA
+2012-03-11,New Mexico,NA
+2012-03-11,Nevada,NA
+2012-03-11,Rhode Island,NA
+2012-03-11,South Dakota,NA
+2012-03-11,Utah,NA
+2012-03-11,Vermont,NA
+2012-03-11,Wisconsin,NA
+2012-03-11,West Virginia,NA
+2012-03-11,Wyoming,NA
+2012-03-12,Montana,100
+2012-03-12,West Virginia,68
+2012-03-12,Idaho,58
+2012-03-12,Nebraska,46
+2012-03-12,Mississippi,46
+2012-03-12,Connecticut,44
+2012-03-12,Washington,43
+2012-03-12,Kansas,36
+2012-03-12,Oregon,34
+2012-03-12,Alabama,32
+2012-03-12,Wisconsin,30
+2012-03-12,Nevada,28
+2012-03-12,Oklahoma,28
+2012-03-12,Pennsylvania,27
+2012-03-12,Michigan,27
+2012-03-12,Tennessee,27
+2012-03-12,Utah,26
+2012-03-12,New Jersey,26
+2012-03-12,Maryland,26
+2012-03-12,Ohio,25
+2012-03-12,Arizona,25
+2012-03-12,Kentucky,23
+2012-03-12,Colorado,23
+2012-03-12,Illinois,22
+2012-03-12,South Carolina,19
+2012-03-12,California,19
+2012-03-12,New York,19
+2012-03-12,Texas,16
+2012-03-12,Minnesota,15
+2012-03-12,Missouri,15
+2012-03-12,Massachusetts,15
+2012-03-12,Indiana,15
+2012-03-12,Georgia,11
+2012-03-12,Virginia,9
+2012-03-12,North Carolina,8
+2012-03-12,Florida,7
+2012-03-12,Alaska,NA
+2012-03-12,Arkansas,NA
+2012-03-12,District of Columbia,NA
+2012-03-12,Delaware,NA
+2012-03-12,Hawaii,NA
+2012-03-12,Iowa,NA
+2012-03-12,Louisiana,NA
+2012-03-12,Maine,NA
+2012-03-12,North Dakota,NA
+2012-03-12,New Hampshire,NA
+2012-03-12,New Mexico,NA
+2012-03-12,Rhode Island,NA
+2012-03-12,South Dakota,NA
+2012-03-12,Vermont,NA
+2012-03-12,Wyoming,NA
+2012-03-13,Delaware,100
+2012-03-13,Rhode Island,77
+2012-03-13,Montana,67
+2012-03-13,Hawaii,44
+2012-03-13,Nevada,38
+2012-03-13,Connecticut,26
+2012-03-13,Kansas,25
+2012-03-13,Washington,25
+2012-03-13,Massachusetts,23
+2012-03-13,Iowa,22
+2012-03-13,Colorado,22
+2012-03-13,Maryland,21
+2012-03-13,Wisconsin,21
+2012-03-13,Indiana,20
+2012-03-13,Oklahoma,19
+2012-03-13,Utah,18
+2012-03-13,California,18
+2012-03-13,Missouri,18
+2012-03-13,Michigan,17
+2012-03-13,Minnesota,16
+2012-03-13,Louisiana,16
+2012-03-13,New Jersey,16
+2012-03-13,Pennsylvania,16
+2012-03-13,Kentucky,16
+2012-03-13,Alabama,15
+2012-03-13,Ohio,14
+2012-03-13,Tennessee,14
+2012-03-13,New York,14
+2012-03-13,Illinois,14
+2012-03-13,Oregon,14
+2012-03-13,South Carolina,13
+2012-03-13,Florida,11
+2012-03-13,Georgia,10
+2012-03-13,Texas,9
+2012-03-13,Arizona,8
+2012-03-13,North Carolina,7
+2012-03-13,Virginia,6
+2012-03-13,Alaska,NA
+2012-03-13,Arkansas,NA
+2012-03-13,District of Columbia,NA
+2012-03-13,Idaho,NA
+2012-03-13,Maine,NA
+2012-03-13,Mississippi,NA
+2012-03-13,North Dakota,NA
+2012-03-13,Nebraska,NA
+2012-03-13,New Hampshire,NA
+2012-03-13,New Mexico,NA
+2012-03-13,South Dakota,NA
+2012-03-13,Vermont,NA
+2012-03-13,West Virginia,NA
+2012-03-13,Wyoming,NA
+2012-03-14,Vermont,100
+2012-03-14,Delaware,50
+2012-03-14,New Hampshire,44
+2012-03-14,Nevada,35
+2012-03-14,Connecticut,29
+2012-03-14,Rhode Island,27
+2012-03-14,Ohio,22
+2012-03-14,New Mexico,16
+2012-03-14,Illinois,14
+2012-03-14,Massachusetts,14
+2012-03-14,Arkansas,13
+2012-03-14,Colorado,12
+2012-03-14,Minnesota,11
+2012-03-14,Michigan,11
+2012-03-14,California,11
+2012-03-14,New York,10
+2012-03-14,Oklahoma,10
+2012-03-14,Utah,10
+2012-03-14,Oregon,9
+2012-03-14,Pennsylvania,9
+2012-03-14,Louisiana,8
+2012-03-14,New Jersey,8
+2012-03-14,Kentucky,8
+2012-03-14,Alabama,8
+2012-03-14,Wisconsin,7
+2012-03-14,South Carolina,7
+2012-03-14,Washington,6
+2012-03-14,North Carolina,6
+2012-03-14,Missouri,5
+2012-03-14,Indiana,5
+2012-03-14,Tennessee,5
+2012-03-14,Maryland,5
+2012-03-14,Florida,4
+2012-03-14,Arizona,4
+2012-03-14,Georgia,4
+2012-03-14,Virginia,3
+2012-03-14,Texas,3
+2012-03-14,Alaska,NA
+2012-03-14,District of Columbia,NA
+2012-03-14,Hawaii,NA
+2012-03-14,Iowa,NA
+2012-03-14,Idaho,NA
+2012-03-14,Kansas,NA
+2012-03-14,Maine,NA
+2012-03-14,Mississippi,NA
+2012-03-14,Montana,NA
+2012-03-14,North Dakota,NA
+2012-03-14,Nebraska,NA
+2012-03-14,South Dakota,NA
+2012-03-14,West Virginia,NA
+2012-03-14,Wyoming,NA
+2012-03-15,Ohio,100
+2012-03-15,Montana,77
+2012-03-15,Wyoming,73
+2012-03-15,Michigan,70
+2012-03-15,Rhode Island,68
+2012-03-15,Kentucky,68
+2012-03-15,Nevada,59
+2012-03-15,Vermont,55
+2012-03-15,Maine,54
+2012-03-15,Connecticut,52
+2012-03-15,Pennsylvania,51
+2012-03-15,New Hampshire,49
+2012-03-15,Massachusetts,47
+2012-03-15,District of Columbia,45
+2012-03-15,New Jersey,41
+2012-03-15,Illinois,41
+2012-03-15,Kansas,41
+2012-03-15,Oregon,41
+2012-03-15,Washington,38
+2012-03-15,Delaware,36
+2012-03-15,California,34
+2012-03-15,Maryland,34
+2012-03-15,Indiana,34
+2012-03-15,Mississippi,33
+2012-03-15,Louisiana,33
+2012-03-15,New York,33
+2012-03-15,Colorado,28
+2012-03-15,New Mexico,27
+2012-03-15,Iowa,25
+2012-03-15,Wisconsin,21
+2012-03-15,Idaho,21
+2012-03-15,Nebraska,18
+2012-03-15,Tennessee,17
+2012-03-15,Alabama,16
+2012-03-15,Utah,16
+2012-03-15,Virginia,15
+2012-03-15,Oklahoma,15
+2012-03-15,Arkansas,14
+2012-03-15,Florida,14
+2012-03-15,Georgia,13
+2012-03-15,Arizona,12
+2012-03-15,Minnesota,12
+2012-03-15,Texas,10
+2012-03-15,Missouri,10
+2012-03-15,North Carolina,8
+2012-03-15,South Carolina,7
+2012-03-15,Alaska,NA
+2012-03-15,Hawaii,NA
+2012-03-15,North Dakota,NA
+2012-03-15,South Dakota,NA
+2012-03-15,West Virginia,NA
+2012-03-16,District of Columbia,100
+2012-03-16,New Hampshire,78
+2012-03-16,Vermont,74
+2012-03-16,Ohio,62
+2012-03-16,Alaska,61
+2012-03-16,Rhode Island,60
+2012-03-16,Michigan,55
+2012-03-16,Montana,52
+2012-03-16,Maine,47
+2012-03-16,Kentucky,46
+2012-03-16,Pennsylvania,46
+2012-03-16,Connecticut,44
+2012-03-16,Indiana,43
+2012-03-16,Massachusetts,43
+2012-03-16,Colorado,42
+2012-03-16,Delaware,41
+2012-03-16,Idaho,40
+2012-03-16,Nevada,37
+2012-03-16,New York,37
+2012-03-16,Illinois,36
+2012-03-16,West Virginia,34
+2012-03-16,Oregon,34
+2012-03-16,New Mexico,34
+2012-03-16,Washington,34
+2012-03-16,New Jersey,30
+2012-03-16,North Carolina,30
+2012-03-16,California,29
+2012-03-16,Wisconsin,28
+2012-03-16,Maryland,26
+2012-03-16,Louisiana,25
+2012-03-16,Iowa,24
+2012-03-16,South Dakota,23
+2012-03-16,Utah,21
+2012-03-16,Tennessee,20
+2012-03-16,Nebraska,20
+2012-03-16,South Carolina,19
+2012-03-16,Minnesota,19
+2012-03-16,Georgia,16
+2012-03-16,Oklahoma,15
+2012-03-16,Florida,14
+2012-03-16,Texas,13
+2012-03-16,Mississippi,13
+2012-03-16,Kansas,13
+2012-03-16,Virginia,13
+2012-03-16,Missouri,11
+2012-03-16,Alabama,9
+2012-03-16,Arkansas,8
+2012-03-16,Arizona,6
+2012-03-16,Hawaii,NA
+2012-03-16,North Dakota,NA
+2012-03-16,Wyoming,NA
+2012-03-17,New Hampshire,100
+2012-03-17,Vermont,67
+2012-03-17,Delaware,66
+2012-03-17,Nebraska,64
+2012-03-17,Iowa,56
+2012-03-17,District of Columbia,53
+2012-03-17,Oregon,52
+2012-03-17,Maine,47
+2012-03-17,Pennsylvania,45
+2012-03-17,Colorado,45
+2012-03-17,Michigan,42
+2012-03-17,Connecticut,39
+2012-03-17,Rhode Island,35
+2012-03-17,Massachusetts,32
+2012-03-17,California,30
+2012-03-17,South Dakota,29
+2012-03-17,New York,29
+2012-03-17,Ohio,27
+2012-03-17,Illinois,26
+2012-03-17,North Carolina,26
+2012-03-17,Washington,26
+2012-03-17,Virginia,25
+2012-03-17,Arkansas,25
+2012-03-17,Minnesota,24
+2012-03-17,Indiana,24
+2012-03-17,Montana,24
+2012-03-17,New Mexico,21
+2012-03-17,Georgia,21
+2012-03-17,Wisconsin,21
+2012-03-17,Kentucky,20
+2012-03-17,New Jersey,20
+2012-03-17,Nevada,20
+2012-03-17,Missouri,18
+2012-03-17,South Carolina,17
+2012-03-17,Kansas,17
+2012-03-17,Tennessee,16
+2012-03-17,Maryland,15
+2012-03-17,Idaho,13
+2012-03-17,Utah,12
+2012-03-17,Texas,11
+2012-03-17,Louisiana,11
+2012-03-17,Florida,10
+2012-03-17,Arizona,9
+2012-03-17,Alabama,5
+2012-03-17,Alaska,NA
+2012-03-17,Hawaii,NA
+2012-03-17,Mississippi,NA
+2012-03-17,North Dakota,NA
+2012-03-17,Oklahoma,NA
+2012-03-17,West Virginia,NA
+2012-03-17,Wyoming,NA
+2012-03-18,Alaska,NA
+2012-03-18,Alabama,NA
+2012-03-18,Arkansas,NA
+2012-03-18,Arizona,NA
+2012-03-18,California,NA
+2012-03-18,Colorado,NA
+2012-03-18,Connecticut,NA
+2012-03-18,District of Columbia,NA
+2012-03-18,Delaware,NA
+2012-03-18,Florida,NA
+2012-03-18,Georgia,NA
+2012-03-18,Hawaii,NA
+2012-03-18,Iowa,NA
+2012-03-18,Idaho,NA
+2012-03-18,Illinois,NA
+2012-03-18,Indiana,NA
+2012-03-18,Kansas,NA
+2012-03-18,Kentucky,NA
+2012-03-18,Louisiana,NA
+2012-03-18,Massachusetts,NA
+2012-03-18,Maryland,NA
+2012-03-18,Maine,NA
+2012-03-18,Michigan,NA
+2012-03-18,Minnesota,NA
+2012-03-18,Missouri,NA
+2012-03-18,Mississippi,NA
+2012-03-18,Montana,NA
+2012-03-18,North Carolina,NA
+2012-03-18,North Dakota,NA
+2012-03-18,Nebraska,NA
+2012-03-18,New Hampshire,NA
+2012-03-18,New Jersey,NA
+2012-03-18,New Mexico,NA
+2012-03-18,Nevada,NA
+2012-03-18,New York,NA
+2012-03-18,Ohio,NA
+2012-03-18,Oklahoma,NA
+2012-03-18,Oregon,NA
+2012-03-18,Pennsylvania,NA
+2012-03-18,Rhode Island,NA
+2012-03-18,South Carolina,NA
+2012-03-18,South Dakota,NA
+2012-03-18,Tennessee,NA
+2012-03-18,Texas,NA
+2012-03-18,Utah,NA
+2012-03-18,Virginia,NA
+2012-03-18,Vermont,NA
+2012-03-18,Washington,NA
+2012-03-18,Wisconsin,NA
+2012-03-18,West Virginia,NA
+2012-03-18,Wyoming,NA
